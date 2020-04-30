@@ -1,0 +1,5 @@
+Mon code présente certains problèmes que je ne suis pas parvenu à résoudre.
+Si le personnage joueur ne bouge pas et qu'un ennemi vient le toucher, l'ennemi est tout le temps détruit.
+Lorsque le PJ à récupéré la première arme, il ne peut plus mourir en touchant une chauve-souris mais ne peut pas non plus la tuer 
+en entrant en collision avec cette dernière (il lui faut arrêter de bouger).
+Aussi, j'aurai aimé faire en sorte que lorsque le PJ ramasse la première arme, il ne puisse tuer que les chauves-souris et pas les zombies.
